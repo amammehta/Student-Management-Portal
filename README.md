@@ -1,4 +1,7 @@
+📚 Student Portal Management System
+
 Student mangement portal a project based on java learning mainly:
+
 JDBC (Java Database Connectivity): Connecting your Java application to a relational database (like MySQL or PostgreSQL) to perform CRUD (Create, Read, Update, Delete) operations.
 
 Multithreading and Concurrency: Writing code that can execute multiple tasks simultaneously (useful for performance, handling multiple users, or background tasks).
